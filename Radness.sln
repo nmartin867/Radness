@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radness.Api", "Radness.Api\Radness.Api.csproj", "{24720C6B-16C8-46B0-BF5E-92465854FD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radness.Api.Tests", "Radness.Api.Tests\Radness.Api.Tests.csproj", "{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,5 +27,17 @@ Global
 		{24720C6B-16C8-46B0-BF5E-92465854FD47}.Release|x64.Build.0 = Release|Any CPU
 		{24720C6B-16C8-46B0-BF5E-92465854FD47}.Release|x86.ActiveCfg = Release|Any CPU
 		{24720C6B-16C8-46B0-BF5E-92465854FD47}.Release|x86.Build.0 = Release|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Debug|x64.Build.0 = Debug|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Debug|x86.Build.0 = Debug|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Release|x64.ActiveCfg = Release|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Release|x64.Build.0 = Release|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Release|x86.ActiveCfg = Release|Any CPU
+		{BABDFC00-EF1D-4519-A317-54FBD5E7EC17}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
